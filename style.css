@@ -120,9 +120,23 @@ h4
     color: black;
 }
 
+.tekst_kontakt 
+{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding-top: 50px;
+    color: black;
+}
+
 a{
     
         text-decoration: none;
         color: white;
        
+}
+
+i{
+    font-family: FontAwesome;
+    color: black;
 }
