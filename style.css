@@ -116,5 +116,13 @@ h4
 {
     text-align: left;
     padding-left: 50px;
+    padding-top: 50px;
     color: black;
+}
+
+a{
+    
+        text-decoration: none;
+        color: white;
+       
 }
